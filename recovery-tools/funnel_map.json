@@ -1,0 +1,2704 @@
+{
+  "title": "🔥 Dieta com Jejum",
+  "domain": "planocompleto.com",
+  "funnel_id": 109152,
+  "status": "published",
+  "node_count": 37,
+  "edge_count": 66,
+  "nodes": [
+    {
+      "id": "863141b5-18e1-4088-bfd0-513f3d5252ea",
+      "slug": "60390903",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Baseado em suas respostas, a Dra. Camila preparou o seu Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "SAÚDE",
+            "SAÚDE",
+            "SAÚDE"
+          ]
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Seu Plano Personalizado para secar até 10KG está 100% pronto!"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Como funciona o Jejum que as famosas fazem para secar:",
+            "Com base nas suas respostas, criamos uma plano de Jejum poderoso de acordo com a quantidade de calorias que seu corpo precisa eliminar para secar 10 KG rápido"
+          ],
+          "options": []
+        },
+        {
+          "type": "reportV3",
+          "title": "Relatório",
+          "text": [
+            "SUA SAÚDE APÓS 16 DIAS COM JEJUM"
+          ],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Veja os antes e depois que vão te mostrar o poder do Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Quem conhece, recomenda! Essa é a sua única e melhor chance"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "scriptV3",
+          "title": "Script",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Garantia de reembolso",
+            "Você tem garantia para testar a vontade corpo e caso não emagrecer, eu devolvo todo seu dinheiro imediatamente. Sendo assim, garanto 100% que funciona."
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "0dc87c44-d9ae-42eb-ada2-2ad6464d66e1",
+      "slug": "4h2t6564",
+      "kind": "page",
+      "components": [
+        {
+          "type": "progressV3",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "benefitsV3",
+          "title": "Benefícios",
+          "text": [
+            "CLÍNICA CACTO"
+          ],
+          "options": [
+            "A Nutricionista Camila é proprietária da Clínica Cacto a qual será responsável por receber e enviar a sua dieta!"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "RUIM",
+            "BOM"
+          ]
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "carouselV3",
+          "title": "Carrossel",
+          "text": [],
+          "options": [
+            "Imagem 1 (2)",
+            "Imagem 1",
+            "Imagem 1 (2)",
+            "Imagem 1 (2) (2)",
+            "Imagem 1 (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2) (2) (2)"
+          ]
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "b251c587-0a6e-4339-9e3a-ab6513fec2e7",
+      "slug": "552z3u00",
+      "kind": "page",
+      "components": [
+        {
+          "type": "scriptV3",
+          "title": "Script",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Baseado em suas respostas, a Dra. Camila preparou o seu Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "SAÚDE",
+            "SAÚDE",
+            "SAÚDE"
+          ]
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Seu Plano Personalizado para secar até 10KG está 100% pronto!"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Como funciona o Jejum que as famosas fazem para secar:",
+            "Com base nas suas respostas, criamos uma plano de Jejum poderoso de acordo com a quantidade de calorias que seu corpo precisa eliminar para secar 10 KG rápido"
+          ],
+          "options": []
+        },
+        {
+          "type": "reportV3",
+          "title": "Relatório",
+          "text": [
+            "SUA SAÚDE APÓS 16 DIAS COM JEJUM"
+          ],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Veja os antes e depois que vão te mostrar o poder do Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Quem conhece, recomenda! Essa é a sua única e melhor chance"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "scriptV3",
+          "title": "Script",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Garantia de reembolso",
+            "Você tem garantia para testar a vontade corpo e caso não emagrecer, eu devolvo todo seu dinheiro imediatamente. Sendo assim, garanto 100% que funciona."
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "02e18a61-e8bc-4297-8fc8-55105df5631f",
+      "slug": "061a0z49",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Saiba que a dieta do ovo não é sofrer comendo apenas ovos!",
+            "Você receberá uma dieta completa."
+          ],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "redirectV3",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "945fa0d1-90f0-4e06-b7fc-b09be5a0f75f",
+      "slug": "47466l1w",
+      "kind": "function",
+      "components": []
+    },
+    {
+      "id": "d82c5526-db2b-4fda-9c26-b057bccd7471",
+      "slug": "2r1i6554",
+      "kind": "function",
+      "components": []
+    },
+    {
+      "id": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "slug": "6b5b2g6o",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "100 KG",
+            "80 KG",
+            "65 KG"
+          ]
+        },
+        {
+          "type": "warrantyV3",
+          "title": "Garantia",
+          "text": [
+            "Em poucos dias você terá um rosto mais definido!"
+          ],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "redirectV3",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "0ac56570-bf86-41ac-93b9-4dbdbd7908b9",
+      "slug": "3672474w",
+      "kind": "page",
+      "components": [
+        {
+          "type": "progressV3",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "benefitsV3",
+          "title": "Benefícios",
+          "text": [
+            "CLÍNICA NUTRIFACIL"
+          ],
+          "options": [
+            "A Nutricionista Camila é proprietária da Clínica NutriFácil a qual será responsável por receber e enviar a sua dieta!"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "RUIM",
+            "BOM"
+          ]
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "carouselV3",
+          "title": "Carrossel",
+          "text": [],
+          "options": [
+            "Imagem 1 (2)",
+            "Imagem 1",
+            "Imagem 1 (2)",
+            "Imagem 1 (2) (2)",
+            "Imagem 1 (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2) (2)",
+            "Imagem 1 (2) (2) (2) (2) (2) (2)"
+          ]
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "86ea78e9-38b6-4042-a7fd-3960d2939416",
+      "slug": "2u0v4h45",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "benefitsV3",
+          "title": "Benefícios",
+          "text": [
+            "⚠️ IMPORTANTE ⚠️"
+          ],
+          "options": [
+            "Você receberá um Plano com uma dieta completa e personalizada só sua!"
+          ]
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "redirectV3",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "ae99570f-32be-4c79-a123-7b8f34a4e035",
+      "slug": "0q5n5u20",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Quais dias você quer ter suas refeições livres? 🍕🍦",
+            "Escolha 2 a 3 dias no máximo:"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "SEGUNDA FEIRA",
+            "TERÇA FEIRA",
+            "QUARTA FEIRA",
+            "QUINTA FEIRA",
+            "SEXTA FEIRA",
+            "SÁBADO",
+            "DOMINGO"
+          ]
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "CONCLUIR"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "2434080d-6d98-4c46-9967-c2c5d0c201e9",
+      "slug": "1l5f404w",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Você tem restrição alimentar?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Sem lactose",
+            "Sem glúten",
+            "Não tenho restrições"
+          ]
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "CONCLUIR"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "d9470a2e-433e-42a0-a05f-20ec62c177ad",
+      "slug": "65625m2k",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Quais alimentos que você come?",
+            "Selecione o que você gosta:"
+          ],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quizV2",
+          "title": "Quiz",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quizV2",
+          "title": "Quiz",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quizV2",
+          "title": "Quiz",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quizV2",
+          "title": "Quiz",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "CONCLUIR"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "slug": "4y1d6y3n",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Você já sofreu alguma ofensa por causa do seu corpo?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Sim, infelizmente 👉",
+            "Sofro com isso a anos 👉",
+            "Não, nunca aconteceu comigo 👉"
+          ]
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "slug": "3m145s6x",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Qual periodo você sente mais fome?",
+            "É importante para montar o seu Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Pela manhã",
+            "Durante a tarde",
+            "Sinto fome a noite",
+            "Não tenho preferência"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daac4f8c-81a4-4eea-8621-f29b0935387f",
+      "slug": "4z632y44",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Quantos quilos você quer perder?",
+            "O Jejum ajuda eliminar até 10 KG em 16 dias"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "-5KG",
+            "-8KG",
+            "-10KG"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Lista",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "8bb54a3b-c430-4b83-952d-838e0ee24b85",
+      "slug": "3g6b4y13",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Alguma vez você já fez a famosa Dieta do Ovo?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Sim, já fiz 👉",
+            "Não, nunca fiz 👉"
+          ]
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "ac23c612-18cb-4d68-975b-178167419447",
+      "slug": "6p255f52",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Quais partes do seu corpo te incomoda ?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Barriga",
+            "Culotes",
+            "Braços",
+            "Costas",
+            "Corpo todo"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Lista",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "buttonV3",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64",
+      "slug": "2r0l0a6o",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Lembre-se:",
+            "Você não está sozinha, estou com você nessa conquista!"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "redirect",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "slug": "6a0p473r",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Você tem algum evento importante chegando?",
+            "Ter algo para esperar pode ser uma grande motivação para alcançar o seu objetivo!"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Viagem nas ferias",
+            "Reunir com familia no Natal",
+            "Tem aniversário chegando",
+            "Vou encontrar alguém",
+            "Nenhum"
+          ]
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "slug": "2l6k2v6w",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Algum desses acontecimentos fez você ganhar peso nos últimos anos?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Casamento ou relacionamento",
+            "Rotina corrida com trabalho ou família",
+            "Dificuldades financeiras",
+            "Estresse ou problemas de saúde mental",
+            "Nenhuma das acima"
+          ]
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "69a101b6-a224-4a43-acfb-7823c042593c",
+      "slug": "0i3q4v66",
+      "kind": "page",
+      "components": [
+        {
+          "type": "benefitsV3",
+          "title": "Benefícios",
+          "text": [
+            "SEU CORPO DE {{peso}}KG PRECISA ELIMINAR 540 CALORIAS POR DIA"
+          ],
+          "options": [
+            "O Plano com Dieta e Jejum te ajuda a eliminar isso todos os dias sem precisar sair de casa!"
+          ]
+        },
+        {
+          "type": "result",
+          "title": "Resultado",
+          "text": [
+            "O ideal para você secar"
+          ],
+          "options": []
+        },
+        {
+          "type": "list",
+          "title": "Lista",
+          "text": [],
+          "options": [
+            "Sua altura:",
+            "Seu peso:",
+            "Sua idade:"
+          ]
+        },
+        {
+          "type": "loadingV3",
+          "title": "Carregamento",
+          "text": [
+            "Vou preparar seu Plano Personalizado pra eliminar {{kg}} de Gordura em 16 dias"
+          ],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "AGUARDE..."
+          ],
+          "options": []
+        },
+        {
+          "type": "redirect",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "0e44b5cc-33b1-4d22-8b67-daf8e481cbab",
+      "slug": "0z12393a",
+      "kind": "page",
+      "components": [
+        {
+          "type": "loadingV3",
+          "title": "Carregamento",
+          "text": [
+            "Seque até 10KG nos próximos dias",
+            "🚨 Em segundos veja como começar a secar"
+          ],
+          "options": []
+        },
+        {
+          "type": "redirect",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "13f970ac-f8b0-47e1-bf96-37d6adbfda8f",
+      "slug": "65684411",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Ajudei centenas de mulheres a secar com um Plano feito pra elas"
+          ],
+          "options": []
+        },
+        {
+          "type": "transform",
+          "title": "Transformação",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Vou preparar agora um Plano com Dieta pra você também!"
+          ],
+          "options": []
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "CONTINUAR"
+          ],
+          "options": []
+        },
+        {
+          "type": "testimony",
+          "title": "Depoimento",
+          "text": [
+            "A melhor decisão da minha vida foi receber o Plano de Jejum da Dra. Camila. Voltei a ter autoestima e confiança, recomendo MUITO!"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "37c62490-0a5e-4940-8799-483067209333",
+      "slug": "673a0w1x",
+      "kind": "function",
+      "components": []
+    },
+    {
+      "id": "ba691758-07da-4932-9303-449d04bca850",
+      "slug": "5t624i43",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Baseado em suas respostas, a Dra. Camila preparou o seu Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "levelsV3",
+          "title": "Níveis",
+          "text": [],
+          "options": [
+            "SAÚDE",
+            "SAÚDE",
+            "SAÚDE"
+          ]
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Seu Plano Personalizado para secar até 10KG está 100% pronto!"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Como funciona o Jejum que as famosas fazem para secar:",
+            "Com base nas suas respostas, criamos uma plano de Jejum poderoso de acordo com a quantidade de calorias que seu corpo precisa eliminar para secar 10 KG rápido"
+          ],
+          "options": []
+        },
+        {
+          "type": "reportV3",
+          "title": "Relatório",
+          "text": [
+            "SUA SAÚDE APÓS 16 DIAS COM JEJUM"
+          ],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Veja os antes e depois que vão te mostrar o poder do Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "textV2",
+          "title": "Texto",
+          "text": [
+            "Quem conhece, recomenda! Essa é a sua única e melhor chance"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Plano de 16 dias R$39,90 por R$24,90",
+            "Plano de 1 mês R$49,90 por R$29,90",
+            "A MELHOR OFERTA Plano de 3 meses R$115,90 por R$37,90"
+          ]
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "scriptV3",
+          "title": "Script",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Garantia de reembolso",
+            "Você tem garantia para testar a vontade corpo e caso não emagrecer, eu devolvo todo seu dinheiro imediatamente. Sendo assim, garanto 100% que funciona."
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "f4f9f231-75ac-4ce2-a471-f0f934a15d4e",
+      "slug": "18420v0c",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Seu Plano Personalizado está 100% PRONTO!"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "titleV3",
+          "title": "Título",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Concluir"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "a2f3cd2a-e0fb-4686-a76a-b3aac0491db1",
+      "slug": "48175k61",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "CRIANDO O PLANO PERSONALIZADO PARA O SEU CORPO!"
+          ],
+          "options": []
+        },
+        {
+          "type": "loading",
+          "title": "Carregamento",
+          "text": [
+            "Preparando...",
+            "Preparando a Dieta personalizada pra você perder -540 calorias por dia"
+          ],
+          "options": []
+        },
+        {
+          "type": "redirect",
+          "title": "Redirecionar",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "+10 mil mulheres e várias famosas já emagreceram com a melhor Plano"
+          ],
+          "options": []
+        },
+        {
+          "type": "carousel",
+          "title": "Carrossel",
+          "text": [],
+          "options": [
+            "Imagem 1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b41cc6fc-3dab-471b-b031-8a24c0c8339a",
+      "slug": "5c5u2w49",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Qual é o seu peso hoje?"
+          ],
+          "options": []
+        },
+        {
+          "type": "weightV2",
+          "title": "Peso",
+          "text": [
+            "Peso"
+          ],
+          "options": []
+        },
+        {
+          "type": "listV2",
+          "title": "Lista",
+          "text": [],
+          "options": [
+            "Informe o seu Peso! Seu peso é essencial definir as calorias ideais para te ajudar a emagrecer"
+          ]
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "slug": "660q6s6f",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Qual é a sua altura?"
+          ],
+          "options": []
+        },
+        {
+          "type": "heightV2",
+          "title": "Altura",
+          "text": [
+            "Altura"
+          ],
+          "options": []
+        },
+        {
+          "type": "listV2",
+          "title": "Lista",
+          "text": [],
+          "options": [
+            "Sua altura é essencial para calcular as calorias ideais para emagrecer"
+          ]
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "slug": "3h4r206i",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Algum desses hábitos atrapalha seu emagrecimento?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Não consigo parar de comer doces",
+            "Eu como tarde da noite",
+            "Nenhum me atrapalha"
+          ]
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "slug": "3g2l513u",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Seu peso atrapalha na hora de escolher roupas?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Sempre",
+            "Às vezes",
+            "Quase nunca"
+          ]
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "É muito triste gostar de uma roupa e quase nunca ter disponível no seu tamanho",
+            "Mas hoje vou te ajudar a mudar isso!"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "4c0fcdcb-159c-414f-95b0-5afa47429d27",
+      "slug": "2d3u3v2y",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "De volta ao corpo de antes",
+            "A Nayara engravidou e passou a usar GG e agora voltou a usar M, seu tamanho ideal"
+          ],
+          "options": []
+        },
+        {
+          "type": "image",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "testimony",
+          "title": "Depoimento",
+          "text": [
+            "Depois da gravidez, ganhei vários quilos. E com um Plano de Jejum consegui perder tudo sem passar fome! Gratidão!"
+          ],
+          "options": []
+        },
+        {
+          "type": "button",
+          "title": "Botão",
+          "text": [
+            "Continuar"
+          ],
+          "options": []
+        },
+        {
+          "type": "list",
+          "title": "Lista",
+          "text": [],
+          "options": [
+            "PLANO PERSONALIZADO"
+          ]
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "slug": "541r5a1v",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Qual o tamanho que você sonha em usar?",
+            "Escolha o tamanho que gostaria de conseguir alcançar com seu novo corpo"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "P",
+            "M",
+            "G",
+            "GG"
+          ]
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "f5431091-58ef-47cf-98ad-cb8bddb411f9",
+      "slug": "4z1l0y4m",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Qual tamanho você veste hoje?",
+            "Essas informações ajudam a Dra. Camila montar o cálculo para seu emagrecimento"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Visto acima do GG",
+            "Visto tamanho G",
+            "Visto tamanho M"
+          ]
+        },
+        {
+          "type": "containerV2",
+          "title": "Container",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "slug": "4o251y6d",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Selecione sua idade agora",
+            "Em 30 segundos, descubra como eliminar toda gordura ainda este mês:"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Tenho 30 a 39 anos",
+            "Tenho 40 a 49 anos",
+            "Tenho mais de 50 anos",
+            "Tenho 18 a 29 anos"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Lista",
+          "text": [],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": "root",
+      "slug": null,
+      "kind": "function",
+      "components": []
+    },
+    {
+      "id": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "slug": "123e2d19",
+      "kind": "page",
+      "components": [
+        {
+          "type": "headerV2",
+          "title": "Cabeçalho",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "progressV2",
+          "title": "Progresso",
+          "text": [],
+          "options": []
+        },
+        {
+          "type": "title",
+          "title": "Título",
+          "text": [
+            "Sua família e amigos apoiam você para manter a forma?"
+          ],
+          "options": []
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "text": [],
+          "options": [
+            "Eu sempre me sinto apoiado pela minha família e amigos 👉",
+            "Às vezes, mas nem sempre 👉",
+            "Não sinto muito apoio 👉"
+          ]
+        },
+        {
+          "type": "imageV3",
+          "title": "Imagem",
+          "text": [],
+          "options": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "target": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "sourceHandle": "93175e67-4bc8-46e9-a95e-ce994b904b7d",
+      "targetHandle": "6ae531fa-c3a9-440c-86af-c729190a02d6"
+    },
+    {
+      "source": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "target": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "sourceHandle": "90601b14-9b68-47c2-8f72-77d63415695f",
+      "targetHandle": "6ae531fa-c3a9-440c-86af-c729190a02d6"
+    },
+    {
+      "source": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "target": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "sourceHandle": "db4a96e6-b8ec-4deb-b504-a41338b26640",
+      "targetHandle": "6ae531fa-c3a9-440c-86af-c729190a02d6"
+    },
+    {
+      "source": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "target": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "sourceHandle": "27573077-4fb0-4728-8f34-8a9aaceaf1c2",
+      "targetHandle": "6ae531fa-c3a9-440c-86af-c729190a02d6"
+    },
+    {
+      "source": "f5431091-58ef-47cf-98ad-cb8bddb411f9",
+      "target": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "sourceHandle": "06750eea-844d-4c87-ac01-7bef7de7db8d",
+      "targetHandle": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2"
+    },
+    {
+      "source": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "target": "4c0fcdcb-159c-414f-95b0-5afa47429d27",
+      "sourceHandle": "66d1d1eb-e037-4023-984e-df9b8ce7ad0f",
+      "targetHandle": "4c0fcdcb-159c-414f-95b0-5afa47429d27"
+    },
+    {
+      "source": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "target": "4c0fcdcb-159c-414f-95b0-5afa47429d27",
+      "sourceHandle": "5b9b91b5-ec16-45a5-8e58-6272f9865cea",
+      "targetHandle": "4c0fcdcb-159c-414f-95b0-5afa47429d27"
+    },
+    {
+      "source": "6ae531fa-c3a9-440c-86af-c729190a02d6",
+      "target": "4c0fcdcb-159c-414f-95b0-5afa47429d27",
+      "sourceHandle": "a756efd7-4113-47a6-a4a5-dcfb4b7c038c",
+      "targetHandle": "4c0fcdcb-159c-414f-95b0-5afa47429d27"
+    },
+    {
+      "source": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "target": "b41cc6fc-3dab-471b-b031-8a24c0c8339a",
+      "sourceHandle": "c910d4ce-b39b-40da-a38d-52068a822d84",
+      "targetHandle": "b41cc6fc-3dab-471b-b031-8a24c0c8339a"
+    },
+    {
+      "source": "f5431091-58ef-47cf-98ad-cb8bddb411f9",
+      "target": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "sourceHandle": "f5465739-9908-40c2-bd0f-e4087bddac1b",
+      "targetHandle": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2"
+    },
+    {
+      "source": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "target": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "sourceHandle": "18d039db-4872-46c0-90cc-ec816c10acb9",
+      "targetHandle": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53"
+    },
+    {
+      "source": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64",
+      "target": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "sourceHandle": "d8a97082-3f2d-42db-8742-593bd528b26b",
+      "targetHandle": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "2bf35b6e-6855-41bd-b54f-7977fa2f82e0",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "67e29e74-9a6b-45ed-b135-f19dd8355975",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "f3cee31e-83b2-4c0f-9eb1-b74b24af1440",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "ba4397c6-78e3-4b46-86c4-337cef665b26",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "482e9cfb-998c-4fa2-b0b1-7db61bd8a005",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "aa7bcbc9-0865-4b0f-9a19-e5adb6fd8b53",
+      "target": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "sourceHandle": "3746bbd9-1981-415f-a4a3-f1ceb177f2ef",
+      "targetHandle": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce"
+    },
+    {
+      "source": "root",
+      "target": "0e44b5cc-33b1-4d22-8b67-daf8e481cbab",
+      "sourceHandle": "rootHandle",
+      "targetHandle": "0e44b5cc-33b1-4d22-8b67-daf8e481cbab"
+    },
+    {
+      "source": "a2f3cd2a-e0fb-4686-a76a-b3aac0491db1",
+      "target": "f4f9f231-75ac-4ce2-a471-f0f934a15d4e",
+      "sourceHandle": "5fc7eb4c-6a79-443e-9528-d03c0565d013",
+      "targetHandle": "f4f9f231-75ac-4ce2-a471-f0f934a15d4e"
+    },
+    {
+      "source": "0e44b5cc-33b1-4d22-8b67-daf8e481cbab",
+      "target": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "sourceHandle": "6829fc33-5fb4-4407-a3b9-e8d47afda13e",
+      "targetHandle": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26"
+    },
+    {
+      "source": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "target": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "sourceHandle": "2fb2e059-66a7-4545-8b8b-2b0d6766d427",
+      "targetHandle": "6517e954-f476-4f82-be63-a445e79ab3d3"
+    },
+    {
+      "source": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "target": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "sourceHandle": "cb1a5b5e-fd7b-4448-96ef-ea5e69f32680",
+      "targetHandle": "6517e954-f476-4f82-be63-a445e79ab3d3"
+    },
+    {
+      "source": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "target": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "sourceHandle": "b874ab45-9479-4c05-8aee-0032de4fe121",
+      "targetHandle": "6517e954-f476-4f82-be63-a445e79ab3d3"
+    },
+    {
+      "source": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26",
+      "target": "6517e954-f476-4f82-be63-a445e79ab3d3",
+      "sourceHandle": "ddb36b8b-4f2e-4576-8d54-f9d005e46943",
+      "targetHandle": "6517e954-f476-4f82-be63-a445e79ab3d3"
+    },
+    {
+      "source": "ac23c612-18cb-4d68-975b-178167419447",
+      "target": "daac4f8c-81a4-4eea-8621-f29b0935387f",
+      "sourceHandle": "b651fcc7-3b5f-452e-b2a3-d68b7375c7ff",
+      "targetHandle": "daac4f8c-81a4-4eea-8621-f29b0935387f"
+    },
+    {
+      "source": "daac4f8c-81a4-4eea-8621-f29b0935387f",
+      "target": "69a101b6-a224-4a43-acfb-7823c042593c",
+      "sourceHandle": "5501c882-1a9b-4338-b281-a36fc11de1e6",
+      "targetHandle": "69a101b6-a224-4a43-acfb-7823c042593c"
+    },
+    {
+      "source": "daac4f8c-81a4-4eea-8621-f29b0935387f",
+      "target": "69a101b6-a224-4a43-acfb-7823c042593c",
+      "sourceHandle": "fc2133b2-9162-4dac-943e-ead251cf4f1e",
+      "targetHandle": "69a101b6-a224-4a43-acfb-7823c042593c"
+    },
+    {
+      "source": "daac4f8c-81a4-4eea-8621-f29b0935387f",
+      "target": "69a101b6-a224-4a43-acfb-7823c042593c",
+      "sourceHandle": "a33ea0c6-73fd-417d-a2f2-a4437e9c4ec3",
+      "targetHandle": "69a101b6-a224-4a43-acfb-7823c042593c"
+    },
+    {
+      "source": "69a101b6-a224-4a43-acfb-7823c042593c",
+      "target": "8bb54a3b-c430-4b83-952d-838e0ee24b85",
+      "sourceHandle": "11340325-3317-4ea7-b270-be38fb853926",
+      "targetHandle": "8bb54a3b-c430-4b83-952d-838e0ee24b85"
+    },
+    {
+      "source": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "target": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "sourceHandle": "08cc99ec-a95c-4cf0-9159-db991af621a8",
+      "targetHandle": "6d7ef647-9877-47a4-863d-f563e06e3028"
+    },
+    {
+      "source": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "target": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "sourceHandle": "b1353ed1-138f-4f41-b8d6-a91f027f0fce",
+      "targetHandle": "6d7ef647-9877-47a4-863d-f563e06e3028"
+    },
+    {
+      "source": "fa7cd3c6-aca9-4556-b8fd-51909954c8ce",
+      "target": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "sourceHandle": "d22a709f-162d-4aea-a1bf-8e1b5d011d76",
+      "targetHandle": "6d7ef647-9877-47a4-863d-f563e06e3028"
+    },
+    {
+      "source": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "target": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64",
+      "sourceHandle": "f466aa83-a971-4bf4-903f-de903506f2c0",
+      "targetHandle": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64"
+    },
+    {
+      "source": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "target": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64",
+      "sourceHandle": "2b01333f-58c7-49aa-884b-de2906145ef4",
+      "targetHandle": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64"
+    },
+    {
+      "source": "6d7ef647-9877-47a4-863d-f563e06e3028",
+      "target": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64",
+      "sourceHandle": "d857de93-6b05-4fd4-931d-597afe16498d",
+      "targetHandle": "c4d1fd16-6460-46e0-82aa-bfaa5e70ba64"
+    },
+    {
+      "source": "d9470a2e-433e-42a0-a05f-20ec62c177ad",
+      "target": "2434080d-6d98-4c46-9967-c2c5d0c201e9",
+      "sourceHandle": "db766766-3a39-42de-835d-580939f2000b",
+      "targetHandle": "2434080d-6d98-4c46-9967-c2c5d0c201e9"
+    },
+    {
+      "source": "2434080d-6d98-4c46-9967-c2c5d0c201e9",
+      "target": "ae99570f-32be-4c79-a123-7b8f34a4e035",
+      "sourceHandle": "3c3b8458-21d6-42f3-b486-b577884ebbd5",
+      "targetHandle": "ae99570f-32be-4c79-a123-7b8f34a4e035"
+    },
+    {
+      "source": "f4f9f231-75ac-4ce2-a471-f0f934a15d4e",
+      "target": "ba691758-07da-4932-9303-449d04bca850",
+      "sourceHandle": "78b0d240-9e3d-497c-b1f9-7e8accccbbfd",
+      "targetHandle": "ba691758-07da-4932-9303-449d04bca850"
+    },
+    {
+      "source": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "target": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "sourceHandle": "c9bf5ac2-938e-44ac-bf98-d79e69a335c6",
+      "targetHandle": "1bc8dce8-1089-4d99-8829-c5f94cd08e43"
+    },
+    {
+      "source": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "target": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "sourceHandle": "00523c37-9c1f-45d8-bc2b-29467b6c9cec",
+      "targetHandle": "1bc8dce8-1089-4d99-8829-c5f94cd08e43"
+    },
+    {
+      "source": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "target": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "sourceHandle": "ec2f0b0f-5c48-4fda-a2bb-e2475dac273b",
+      "targetHandle": "1bc8dce8-1089-4d99-8829-c5f94cd08e43"
+    },
+    {
+      "source": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "target": "1bc8dce8-1089-4d99-8829-c5f94cd08e43",
+      "sourceHandle": "cab398ef-1520-42ab-83ab-90b0c5f6054c",
+      "targetHandle": "1bc8dce8-1089-4d99-8829-c5f94cd08e43"
+    },
+    {
+      "source": "f5431091-58ef-47cf-98ad-cb8bddb411f9",
+      "target": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2",
+      "sourceHandle": "7a5ad82f-4ac7-4827-8d28-f0166c2f4576",
+      "targetHandle": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2"
+    },
+    {
+      "source": "4c0fcdcb-159c-414f-95b0-5afa47429d27",
+      "target": "ac23c612-18cb-4d68-975b-178167419447",
+      "sourceHandle": "076f3e1c-4b0c-4cea-b282-e01484419e1a",
+      "targetHandle": "ac23c612-18cb-4d68-975b-178167419447"
+    },
+    {
+      "source": "13f970ac-f8b0-47e1-bf96-37d6adbfda8f",
+      "target": "86ea78e9-38b6-4042-a7fd-3960d2939416",
+      "sourceHandle": "b006667f-7548-4faa-91a7-b83ec52a916c",
+      "targetHandle": "86ea78e9-38b6-4042-a7fd-3960d2939416"
+    },
+    {
+      "source": "f4f9f231-75ac-4ce2-a471-f0f934a15d4e",
+      "target": "ba691758-07da-4932-9303-449d04bca850",
+      "sourceHandle": "63fadf6d-62a1-4038-a5a8-af1a3661a512",
+      "targetHandle": "ba691758-07da-4932-9303-449d04bca850"
+    },
+    {
+      "source": "86ea78e9-38b6-4042-a7fd-3960d2939416",
+      "target": "d9470a2e-433e-42a0-a05f-20ec62c177ad",
+      "sourceHandle": "8013f7d0-e50b-48d8-a5d4-4ca3e9cbc30d",
+      "targetHandle": "d9470a2e-433e-42a0-a05f-20ec62c177ad"
+    },
+    {
+      "source": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "target": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "sourceHandle": "7ac86b7c-dee2-400c-895f-a5fd2cbb9d30",
+      "targetHandle": "a785ca36-28cb-422c-8e9a-20e1ac703759"
+    },
+    {
+      "source": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "target": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "sourceHandle": "9f671df1-cc58-4c95-b118-c534ff36879d",
+      "targetHandle": "a785ca36-28cb-422c-8e9a-20e1ac703759"
+    },
+    {
+      "source": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "target": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "sourceHandle": "89b998d2-8584-4320-8b84-e4f2d4a11396",
+      "targetHandle": "a785ca36-28cb-422c-8e9a-20e1ac703759"
+    },
+    {
+      "source": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "target": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "sourceHandle": "903b4d77-5e9e-4258-a859-0076225cf960",
+      "targetHandle": "a785ca36-28cb-422c-8e9a-20e1ac703759"
+    },
+    {
+      "source": "87e5dbdd-8c2a-4d67-be03-48c295af4ef4",
+      "target": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "sourceHandle": "2f77e55e-daa2-4986-8f51-b68b36c266a4",
+      "targetHandle": "a785ca36-28cb-422c-8e9a-20e1ac703759"
+    },
+    {
+      "source": "a785ca36-28cb-422c-8e9a-20e1ac703759",
+      "target": "13f970ac-f8b0-47e1-bf96-37d6adbfda8f",
+      "sourceHandle": "0a51be40-5e1c-4681-8edf-21d876cc255a",
+      "targetHandle": "13f970ac-f8b0-47e1-bf96-37d6adbfda8f"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "37c62490-0a5e-4940-8799-483067209333",
+      "sourceHandle": "4a59acb5-7f50-4f7a-8a4a-8644f3756bb5",
+      "targetHandle": "37c62490-0a5e-4940-8799-483067209333"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "d82c5526-db2b-4fda-9c26-b057bccd7471",
+      "sourceHandle": "8c4004ac-94cc-4bf7-ad04-20ea3515c553",
+      "targetHandle": "d82c5526-db2b-4fda-9c26-b057bccd7471"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "945fa0d1-90f0-4e06-b7fc-b09be5a0f75f",
+      "sourceHandle": "11228c4b-b3a4-4366-abbf-c0cc79175dd4",
+      "targetHandle": "945fa0d1-90f0-4e06-b7fc-b09be5a0f75f"
+    },
+    {
+      "source": "b41cc6fc-3dab-471b-b031-8a24c0c8339a",
+      "target": "f5431091-58ef-47cf-98ad-cb8bddb411f9",
+      "sourceHandle": "28e3a514-4d94-4215-9b4a-98a3d9448f3c",
+      "targetHandle": "f5431091-58ef-47cf-98ad-cb8bddb411f9"
+    },
+    {
+      "source": "8bb54a3b-c430-4b83-952d-838e0ee24b85",
+      "target": "02e18a61-e8bc-4297-8fc8-55105df5631f",
+      "sourceHandle": "862b1775-bb5c-4a8b-9fff-4b8c77d6f6ba",
+      "targetHandle": "02e18a61-e8bc-4297-8fc8-55105df5631f"
+    },
+    {
+      "source": "8bb54a3b-c430-4b83-952d-838e0ee24b85",
+      "target": "02e18a61-e8bc-4297-8fc8-55105df5631f",
+      "sourceHandle": "3fb45082-2bf5-4213-b6c7-7cd5971e36f2",
+      "targetHandle": "02e18a61-e8bc-4297-8fc8-55105df5631f"
+    },
+    {
+      "source": "02e18a61-e8bc-4297-8fc8-55105df5631f",
+      "target": "a6c07d1c-2511-4dd7-8950-ccde79559352",
+      "sourceHandle": "73b4bd1b-dc17-4010-a257-f8add1d2a7e3",
+      "targetHandle": "a6c07d1c-2511-4dd7-8950-ccde79559352"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "37c62490-0a5e-4940-8799-483067209333",
+      "sourceHandle": "b1c34698-7ec6-498c-9306-4a408b1213b4",
+      "targetHandle": "37c62490-0a5e-4940-8799-483067209333"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "d82c5526-db2b-4fda-9c26-b057bccd7471",
+      "sourceHandle": "d5d22ca6-ceda-4d77-a517-ff2fb1d7b774",
+      "targetHandle": "d82c5526-db2b-4fda-9c26-b057bccd7471"
+    },
+    {
+      "source": "ba691758-07da-4932-9303-449d04bca850",
+      "target": "945fa0d1-90f0-4e06-b7fc-b09be5a0f75f",
+      "sourceHandle": "e44ec8e8-06b6-4f96-8670-ad912ec4e0be",
+      "targetHandle": "945fa0d1-90f0-4e06-b7fc-b09be5a0f75f"
+    },
+    {
+      "source": "ae99570f-32be-4c79-a123-7b8f34a4e035",
+      "target": "0dc87c44-d9ae-42eb-ada2-2ad6464d66e1",
+      "sourceHandle": "b25fc34d-6347-49d9-b6a4-a26efa8a3817",
+      "targetHandle": "0dc87c44-d9ae-42eb-ada2-2ad6464d66e1"
+    },
+    {
+      "source": "0dc87c44-d9ae-42eb-ada2-2ad6464d66e1",
+      "target": "a2f3cd2a-e0fb-4686-a76a-b3aac0491db1",
+      "sourceHandle": "f6b6cfcb-013c-4340-bb71-d3522b0d3ada",
+      "targetHandle": "a2f3cd2a-e0fb-4686-a76a-b3aac0491db1"
+    }
+  ],
+  "variables": [
+    {
+      "id": "767761e7-7316-4db7-aedb-d03176a548c7",
+      "type": "global",
+      "title": "peso2",
+      "pageId": null
+    },
+    {
+      "id": "18d06139-94a6-4b29-9d05-dea663c1185a",
+      "type": "heightV2",
+      "title": "altura",
+      "pageId": "6517e954-f476-4f82-be63-a445e79ab3d3"
+    },
+    {
+      "id": "d5571572-fca6-43e5-bda0-2beb3e1a5b9a",
+      "type": "quiz",
+      "title": "idade",
+      "pageId": "fdfc7cb8-f796-4ae4-8c28-a18d68086f26"
+    },
+    {
+      "id": "e8b7aa6d-c224-4e6d-a48d-5b878bc4a994",
+      "type": "weightV2",
+      "title": "peso",
+      "pageId": "b41cc6fc-3dab-471b-b031-8a24c0c8339a"
+    },
+    {
+      "id": "9a32b089-eb61-4940-b25f-57227873e3e8",
+      "type": "quiz",
+      "title": "tamanhoatual",
+      "pageId": "f5431091-58ef-47cf-98ad-cb8bddb411f9"
+    },
+    {
+      "id": "3da11070-06ef-486a-806e-48068477e1a3",
+      "type": "quiz",
+      "title": "tamanhosonho",
+      "pageId": "af4c4a9a-8ba5-4ce2-ac13-94b2b146a8c2"
+    },
+    {
+      "id": "30e8b68b-cc15-4bd3-9834-3ba3b9632165",
+      "type": "weightV2",
+      "title": "pesosonho",
+      "pageId": "7add9b50-805c-4776-9786-8b941ec25df6"
+    },
+    {
+      "id": "686a532b-acdf-47af-b7d8-eb1976550437",
+      "type": "quiz",
+      "title": "kg",
+      "pageId": "706ee9ed-42b3-4334-a8fd-987650586dfb"
+    },
+    {
+      "id": "9cb90940-d1cc-431f-a87f-d615e18abc3a",
+      "type": "text",
+      "title": "nome",
+      "pageId": "93102b15-0516-43d7-b08f-f14169a0d2dd"
+    },
+    {
+      "id": "d072f10a-388a-40f2-b962-523f32078af9",
+      "type": "quiz",
+      "title": "incomoda",
+      "pageId": "ac23c612-18cb-4d68-975b-178167419447"
+    },
+    {
+      "id": "sys_2g2s",
+      "type": "system",
+      "title": "src",
+      "pageId": null
+    },
+    {
+      "id": "sys_2fq3",
+      "type": "system",
+      "title": "sck",
+      "pageId": null
+    },
+    {
+      "id": "sys_ds7xb1",
+      "type": "system",
+      "title": "utm_term",
+      "pageId": null
+    },
+    {
+      "id": "sys_pgta8o",
+      "type": "system",
+      "title": "utm_content",
+      "pageId": null
+    },
+    {
+      "id": "sys_12ihkv",
+      "type": "system",
+      "title": "utm_campaign",
+      "pageId": null
+    },
+    {
+      "id": "sys_v91lba",
+      "type": "system",
+      "title": "utm_medium",
+      "pageId": null
+    },
+    {
+      "id": "sys_y94amk",
+      "type": "system",
+      "title": "utm_source",
+      "pageId": null
+    }
+  ],
+  "integrations": [
+    {
+      "name": "UTMIFY 01",
+      "type": "utmify",
+      "title": "UTMify Pixel",
+      "script": "1232754038578561"
+    },
+    {
+      "name": "PIXEL FT",
+      "type": "meta",
+      "title": "Meta Pixel",
+      "key": "1232754038578561"
+    }
+  ],
+  "cakto_checkout_urls": [
+    "https://pay.cakto.com.br/crqkjvj",
+    "https://pay.cakto.com.br/pnmez2y",
+    "https://pay.cakto.com.br/psmwv48",
+    "https://pay.cakto.com.br/wsdwaid"
+  ],
+  "image_count": 89
+}
